@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: whitesmoke;
+}
+
+.name{
+    padding-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: grey;
+    margin-top: 0;
+}
+
+.main-info{
+    display: flex;
+    gap: 200px;
+    padding-left: 30px;
+}
+
+/* .other-info{
+    padding-left: 30px;
+
+} */
+
+.subother{
+    background-color: lightgray;
+    padding-left: 30px;
+}
+
+p{
+    padding-left: 30px;
+    font-size: 20px;
+    
+}
+
+footer{
+    background-color: gray;
+    padding: 10px;
+}
+
+h3 a{
+    text-decoration: none;
+    color: black;
+}
+
+.subreferee{
+    padding-left: 30px;
+    background-color: lightgray;
+}
